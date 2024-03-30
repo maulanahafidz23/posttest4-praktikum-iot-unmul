@@ -40,9 +40,9 @@ Sebuah rumah memiliki n+1 LED (n = banyaknya anggota kelompok) yang bisa di atur
 
 
 **Design Schematic:**
-<img src="Skema/Schematic.jpg">
+<img src="Skema/Schematic.jpeg">
 
 **Our Schematic:**
-<img src="Skema/Hasil.png">
+<img src="Skema/Hasil.jpeg">
 
 LINK VIDEO: https://youtu.be/LQw5Np78jZQ?si=quqsuShQtnmWRbTA
